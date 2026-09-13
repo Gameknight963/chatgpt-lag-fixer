@@ -1,3 +1,7 @@
+todo: update extension to be on par with the paid version
+
+original repository readme:
+
 # ChatGPT Lag Fixer (Virtual Scroller)
 
 **The ultimate performance booster for long ChatGPT conversations**
