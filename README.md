@@ -1,7 +1,12 @@
-todo: update extension to be on par with the paid version
+# THIS EXTENSION IS NOT NEEDED
 
-original repository readme:
+ChatGPT now has virtualization AND pagination, making this extension obselete
 
+I was planning to make a cracked version but looks like it's not necessary anymore
+
+(The fact that it's still advertised to 'fix lag' and such on the add-ons page is somewhat suspicious)
+
+# Original Repository README
 # ChatGPT Lag Fixer (Virtual Scroller)
 
 **The ultimate performance booster for long ChatGPT conversations**
